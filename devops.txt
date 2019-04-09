@@ -1,0 +1,14 @@
+git account
+bit bucket
+git download
+git kraken download
+docker hub account
+
+sanbv001
+anubhav.srinivas@gmail.com
+Sanbv2019$
+
+git clone
+git add .
+git commit -m "givemessage"
+git push
